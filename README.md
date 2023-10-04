@@ -30,7 +30,7 @@ The Student Database Management System Project aims to revolutionize how educati
 
 <img width="1440" alt="Screen Shot 2023-10-03 at 10 17 44 PM" src="https://github.com/cxx5208/Student-Database-Management-System/assets/76988460/2a214860-cb5b-46e7-8e0f-85efe721059b">
 
-<img width="1440" alt="Screen Shot 2023-10-03 at 10 18 49 PM" src="https://github.com/cxx5208/Student-Database-Management-System/assets/76988460/71c112b4-97dc-4977-857c-a87850f4feca">
+![image](https://github.com/cxx5208/Student-Database-Management-System/assets/76988460/58cec902-a84b-483d-8bf6-23a9e6a0b1d4)
 
 
 
